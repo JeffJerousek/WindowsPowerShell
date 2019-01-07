@@ -1,0 +1,8 @@
+# PowerShell Lessen uit diverse boeken.
+
+# PowerShell for beginners
+PowerShell versie ophalen
+
+```
+$PSVersionTable
+```
